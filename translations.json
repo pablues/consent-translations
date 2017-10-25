@@ -1,0 +1,14 @@
+{
+  "en": {
+    "main": "We'd like to use some of your computing power to finance the content on this website. By agreeing you consent to the Inwemo Privacy Policy.",
+    "agree": "I agree",
+    "disagree": "I don't want this",
+    "learn_more": "learn more"
+  },
+  "de": {
+    "main": "Wir möchten einen Teil Ihrer Rechenleistung nutzen, um den Inhalt dieser Website zu finanzieren. Durch Ihr Einverständnis stimmen Sie der Datenschutzerklärung von Inwemo zu.",
+    "agree": "Einverstanden",
+    "disagree": "Bitte nicht",
+    "learn_more": "mehr erfahren"
+  }
+}
